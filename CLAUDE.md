@@ -1,6 +1,6 @@
 # [Project Name]
 
-Expo React Native app (iOS-focused). Uses Expo Router for navigation.
+Expo React Native app (iOS-focused). Uses Expo Router for navigation. Written in **TypeScript** — all new files must use `.ts`/`.tsx` extensions and be fully typed. Do not use `any`; prefer explicit types and interfaces.
 
 ## Development
 
